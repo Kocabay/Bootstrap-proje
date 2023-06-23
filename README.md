@@ -1,7 +1,15 @@
-# bootstrap-proje
-#
--Responsive Tasarım Yapıldı
--Bootstrap kütüphaneleri kullanılarak proje tamamlandı.
+# Destiny Site Project (Animation and Full Resposive)
 
+## What i practice
 
-Gif ![][boostrap-proje.gif)
+- Used HTML CSS JS for Design
+- Full Responsive
+- Animation
+
+## `URL`
+
+https://superlative-puppy-189158.netlify.app/
+
+## `Screen`
+
+![](boostrap-proje.gif)
