@@ -6,9 +6,6 @@
 - Full Responsive
 - Animation
 
-## `URL`
-
-https://superlative-puppy-189158.netlify.app/
 
 ## `Screen`
 
